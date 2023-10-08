@@ -53,10 +53,11 @@
 
 
 ## Output:
+![273424368-83b2bba1-89a8-470b-8ceb-beffecf4fe78](https://github.com/RKavikeerthana/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120431120/3cbc328c-5884-40e8-916a-e916b542fd08)
 
 
-### Name:
-### Register Number: 
+### Name: R.KAVI KEERTHANA
+### Register Number: 212222100022
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
